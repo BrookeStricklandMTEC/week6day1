@@ -1,0 +1,45 @@
+
+.headline {display: flex; justify-content: left; font-family: 'Open Sans', sans-serif; font-size: 40px; margin: 10px 0px 2px 2px;  }
+
+.underline {display: flex; justify-content: left; border-width: 1px; padding-bottom: 10px; margin: 0px 0px 2px 2px; }
+
+.clickMe{background-color: #d5d6ea; display: inline-block; padding: 10px; border-radius: 3px; }
+
+#row { border-style: groove; border-width: 1px; font-family: Helvetica; text-indent: 5px; border-radius: 5px;
+
+
+}
+
+#clicker{ font-size: 12px; cursor: pointer; border-radius: 5px;}
+
+.darkMode { background-color: #3a3b3c; color: white; }
+
+#contentContainer{ border-style: none; margin: 10px 10px 5px 5px; padding: 10px 10px 5px 5px;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
